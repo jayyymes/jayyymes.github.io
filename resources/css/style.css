@@ -159,7 +159,7 @@ header {
     position: absolute;
     width: 1140px;
     /* For center */
-    top: 30%;
+    top: 40%;
     left: 50%; 
     transform: translate(-50%, -50%);
 }
@@ -250,8 +250,8 @@ header {
 }
 
 .h-logo {
-    width: 60%;
-    margin-left: 18%;
+    width: 65%;
+    margin-left: 16%;
 }
 
 .soundcloud {
